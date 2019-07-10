@@ -1,0 +1,86 @@
+/* make all h1 elements blue */
+h1 {
+  color : crimson	;
+  font-size : 65px;
+  font-family : impact;
+  text-align: center;
+}
+
+body {
+  background-image: url("marble.jpg");
+}
+
+/* my tags */
+#header2 {
+  color : #E30B5C ;
+  font-size: 20px;
+  font-family: verdana ;
+}
+
+.header3 {
+  color: #E30B5C	;
+  font-family:verdana ;
+  font-size : 20px
+}
+
+#header4 {
+  color: black;
+  font-size : 14px;
+  font-family: verdana ;
+}
+
+#header5 {
+  color: #e30b5c;
+  font-size : 20px;
+  font-family : verdana ;
+}
+
+#header6 {
+  color: #E30B5C;
+  font-size: 20px;
+  font-family: verdana;
+  text-align : center;
+}
+
+.center-list {
+  padding: 30px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.scrollmenu {
+  background-color: crimson ;
+  overflow: auto;
+  white-space: nowrap;
+  font-size:25px;
+  text-align: center;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
+ul {
+  text-decoration: none;
+  color: black;
+  font-size : 14px ;
+  font-family: verdana ;
+}
+
+div.headers {
+  margin: 20px 0px;
+}
